@@ -1,0 +1,16 @@
+{
+    "data": {
+      "attributes": {
+        "message": "Run Created by RESTful API Calls"
+      },
+      "type":"runs",
+      "relationships": {
+        "workspace": {
+          "data": {
+            "type": "workspaces",
+            "id": "ws-ARsviW6JRkpHS4pV"
+          }
+        }
+      }
+    }
+}
